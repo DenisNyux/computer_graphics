@@ -51,6 +51,7 @@ def transfer():
 root = Tk()
 root.title('Рисование')
 root.geometry('500x600')
+root.resizable(width=False, height=False)
 # Создание холста
 canv = Canvas(root, width=WD, height=WD, bg='white')
 canv.place(x=0, y=100)
