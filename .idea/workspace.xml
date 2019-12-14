@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94a613de-9344-41a8-a3bc-bd8e9d95a0f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sr1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr2/isr1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr2/isr2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr2/isr3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sr2/vsr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CompGraphics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CompGraphics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab6/main6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab6/main6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sr2/vsr.py" beforeDir="false" afterPath="$PROJECT_DIR$/sr2/vsr.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,65 +21,43 @@
     <SUITE FILE_PATH="coverage/CompGraphics$attempt.coverage" NAME="attempt Coverage Results" MODIFIED="1576254111212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab3" />
     <SUITE FILE_PATH="coverage/CompGraphics$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1575929397121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab4" />
     <SUITE FILE_PATH="coverage/CompGraphics$sas.coverage" NAME="sas Coverage Results" MODIFIED="1576188468302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6" />
-    <SUITE FILE_PATH="coverage/CompGraphics$isr1.coverage" NAME="isr1 Coverage Results" MODIFIED="1576278267681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr2" />
+    <SUITE FILE_PATH="coverage/CompGraphics$isr1.coverage" NAME="isr1 Coverage Results" MODIFIED="1576324847533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr2" />
     <SUITE FILE_PATH="coverage/CompGraphics$main5.coverage" NAME="main5 Coverage Results" MODIFIED="1576254628680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab5" />
     <SUITE FILE_PATH="coverage/CompGraphics$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1576252026395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab1" />
-    <SUITE FILE_PATH="coverage/CompGraphics$isr2.coverage" NAME="isr2 Coverage Results" MODIFIED="1576280381834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr2" />
+    <SUITE FILE_PATH="coverage/CompGraphics$isr2.coverage" NAME="isr2 Coverage Results" MODIFIED="1576325065616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr2" />
     <SUITE FILE_PATH="coverage/CompGraphics$prog1.coverage" NAME="prog1 Coverage Results" MODIFIED="1569305650137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CompGraphics$main6.coverage" NAME="main6 Coverage Results" MODIFIED="1576255043100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6" />
+    <SUITE FILE_PATH="coverage/CompGraphics$main6.coverage" NAME="main6 Coverage Results" MODIFIED="1576285777523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6" />
     <SUITE FILE_PATH="coverage/CompGraphics$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1576186244251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab5" />
     <SUITE FILE_PATH="coverage/CompGraphics$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1576252834014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
-    <SUITE FILE_PATH="coverage/CompGraphics$main.coverage" NAME="main Coverage Results" MODIFIED="1576273953204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr1" />
-    <SUITE FILE_PATH="coverage/CompGraphics$isr3.coverage" NAME="isr3 Coverage Results" MODIFIED="1576284125299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr2" />
+    <SUITE FILE_PATH="coverage/CompGraphics$main.coverage" NAME="main Coverage Results" MODIFIED="1576324459267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr1" />
+    <SUITE FILE_PATH="coverage/CompGraphics$isr3.coverage" NAME="isr3 Coverage Results" MODIFIED="1576325317117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr2" />
+    <SUITE FILE_PATH="coverage/CompGraphics$vsr.coverage" NAME="vsr Coverage Results" MODIFIED="1576325601908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sr2" />
     <SUITE FILE_PATH="coverage/CompGraphics$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1576251248929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab6" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab6/main6.py">
+        <entry file="file://$PROJECT_DIR$/sr2/isr3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="195">
+              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr2/isr1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="55" column="10" lean-forward="true" selection-start-line="54" selection-end-line="60" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr2/isr2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sr2/isr3.py">
+        <entry file="file://$PROJECT_DIR$/sr2/vsr.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+            <state relative-caret-position="75">
+              <caret line="77" column="10" lean-forward="true" selection-start-line="3" selection-end-line="80" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sr2/vsr.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -127,14 +98,14 @@
         <option value="$PROJECT_DIR$/Lab6/main6.py" />
         <option value="$PROJECT_DIR$/sr2/isr1.py" />
         <option value="$PROJECT_DIR$/sr2/isr2.py" />
-        <option value="$PROJECT_DIR$/sr2/vsr.py" />
         <option value="$PROJECT_DIR$/sr2/isr3.py" />
+        <option value="$PROJECT_DIR$/sr2/vsr.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="27" />
-    <option name="width" value="856" />
+    <option name="width" value="827" />
     <option name="height" value="717" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -143,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,13 +155,17 @@
             <path>
               <item name="CompGraphics" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompGraphics" type="462c0819:PsiDirectoryNode" />
+              <item name="sr1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompGraphics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompGraphics" type="462c0819:PsiDirectoryNode" />
               <item name="sr2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.isr3">
+  <component name="RunManager" selected="Python.vsr">
     <configuration name="isr1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CompGraphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -285,9 +261,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sr1" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -300,20 +276,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="vsr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CompGraphics" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab6" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sr2" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab6/main6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sr2/vsr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,7 +299,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main6" />
+      <item itemvalue="Python.vsr" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.isr1" />
       <item itemvalue="Python.isr2" />
@@ -331,11 +307,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.vsr" />
         <item itemvalue="Python.isr3" />
         <item itemvalue="Python.isr2" />
         <item itemvalue="Python.isr1" />
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.main6" />
       </list>
     </recent_temporary>
   </component>
@@ -376,18 +352,19 @@
       <workItem from="1576182160249" duration="1690000" />
       <workItem from="1576185575409" duration="8669000" />
       <workItem from="1576251177677" duration="153000" />
-      <workItem from="1576251999076" duration="17453000" />
+      <workItem from="1576251999076" duration="20143000" />
+      <workItem from="1576320301505" duration="6115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78039000" />
+    <option name="totallyTimeSpent" value="86844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="856" height="717" extended-state="4" />
+    <frame x="0" y="27" width="827" height="717" extended-state="5" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33044556" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32991013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -410,22 +387,22 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2977273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32991013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3288364" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39898133" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32597622" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3979764" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3288364" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32715008" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3293718" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32597622" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -466,16 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sr1/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab1/main1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -483,10 +450,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lab5/main5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lab6/main6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="225">
+          <caret line="42" column="19" lean-forward="true" selection-start-line="42" selection-end-line="45" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sr1/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -495,22 +482,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sr2/isr1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="55" column="10" lean-forward="true" selection-start-line="54" selection-end-line="60" selection-end-column="25" />
+        <state relative-caret-position="120">
+          <caret line="44" column="11" lean-forward="true" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sr2/isr2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        <state relative-caret-position="195">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab5/main5.py">
+    <entry file="file://$PROJECT_DIR$/sr2/isr3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -518,12 +505,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sr2/vsr.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sr2/isr3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        <state relative-caret-position="75">
+          <caret line="77" column="10" lean-forward="true" selection-start-line="3" selection-end-line="80" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
